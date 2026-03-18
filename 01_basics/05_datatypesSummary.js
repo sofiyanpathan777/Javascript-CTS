@@ -43,4 +43,8 @@ console.log(typeof outsideTemp);
  * | Object                     ==         | Implementation-defined (not undefined, boolean, number, or string)        |
  */
 
+ //************************************************************************************************************************
+
+ // Stack (Primitive) , Heap (Non Primitive)
+
  
